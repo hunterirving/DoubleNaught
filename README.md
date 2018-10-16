@@ -30,4 +30,4 @@ Double Naught doesn't have an "activity monitor" to track whether or not you spe
 
 .
 
-<b><i>How we spend our days is, ultimately, how we spend our lives.<b></i>
+"""How we spend our days is, ultimately, how we spend our lives." - Annie Dillard" - Light Phone 2 Commercial" - Hunter Irving
