@@ -1,5 +1,5 @@
 # Double Naught
-<h3> "Pebble is dead... <i>Long live Pebble!" </h3> <i>
+<h3> "Pebble is dead... <i>Long live Pebble!" </h3> </i>
 
 With the <a href="https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/">Great FitBit Buyout of 2016</a> finally laying Pebble to rest, and most developer resources pointing to <a href="http://developer.pebble.com/tutorials/">dead links</a>, there's simply no worse time to get into Pebble development.
 
