@@ -10,7 +10,7 @@ It's easy to let your day slip away from you.
 
 Double Naught aims to remind you of the constant passage of time by breaking your day into one hundred 864 second (14.4 minute)-long chunks, and notifies you with a vibrational pulse to the wrist each time 1% of your day has elapsed.
 
-<img src="64centiday.png"></img>
+<img src="64centiday.PNG"></img>
 
 <h3>Time Well Spent..?</h3>
 
