@@ -8,7 +8,7 @@ With the <a href="https://www.wired.com/2016/12/the-inside-story-behind-pebbles-
 <h3>Right Into the Future</h3>
 It's easy to let your day slip away from you.
 
-Double Naught aims to remind you of the constant passage of time by breaking your day into one hundred 864 second (14.4 minute)-long chunks, and notifying you with a vibrational pulse to the wrist each time 1% of your day has elapsed.
+Double Naught aims to remind you of the constant passage of time by breaking your day into one hundred 864 second (14.4 minute)-long chunks, and notifies you with a vibrational pulse to the wrist each time 1% of your day has elapsed.
 
 <img src="onwrist.png"></img>
 
@@ -18,7 +18,7 @@ A minute is fleeting.
 
 An hour can really drag on.
 
-But one cD (centi-Day) has a real weight to it, without overstaying its welcome.
+But one cD (centi-Day) has a real weight to it without overstaying its welcome.
 
 <img src="res/watchfrontemu.png"></img>
 
