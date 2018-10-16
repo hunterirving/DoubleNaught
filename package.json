@@ -1,0 +1,25 @@
+{
+  "name": "DoubleNaught",
+  "author": "Hunter Irving",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "main": {
+      "rockyjs": "src/rocky/index.js",
+      "pkjs": "src/pkjs/index.js"
+    },
+    "displayName": "DoubleNaught",
+    "uuid": "bc8ebbdf-681c-44f2-9235-fa66533ecf1e",
+    "projectType": "rocky",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "watchapp": {
+      "watchface": true
+    },
+    "resources": {
+      "media": []
+    }
+  }
+}
