@@ -10,7 +10,7 @@ It's easy to let your day slip away from you.
 
 Double Naught aims to remind you of the constant passage of time by breaking your day into one hundred 864 second (14.4 minute)-long chunks, and notifies you with a vibrational pulse to the wrist each time 1% of your day has elapsed.
 
-<img src="onwrist.png"></img>
+<img src="64centiday.png"></img>
 
 <h3>Time Well Spent..?</h3>
 
@@ -20,7 +20,7 @@ An hour can really drag on.
 
 But one cD (centi-Day) has a real weight to it without overstaying its welcome.
 
-<img src="res/watchfrontemu.png"></img>
+<br>
 
 Double Naught doesn't have an "activity monitor" to track whether or not you spent your day "well", but each time your wrist pulses, take a brief moment to reflect on how you spent the previous 1% of your day, and how you plan to spend the next one.
 
