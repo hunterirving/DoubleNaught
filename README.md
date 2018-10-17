@@ -20,7 +20,7 @@ An hour can really drag on.
 
 But one cD (centi-Day) has a real weight to it without overstaying its welcome.
 
-<br>
+<img width="40%" src="wear.jpg"></img>
 
 Double Naught doesn't have an "activity monitor" to track whether or not you spent your day "well", but each time your wrist pulses, take a brief moment to reflect on how you spent the previous 1% of your day, and how you plan to spend the next one.
 
